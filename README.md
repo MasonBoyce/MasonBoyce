@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About ME
+😄 My name is Mason Boyce.
+
+🎓 I'm Studying Computer Science and Economics at Tulane University 2023
+
+
+## I’m currently working on ...
+🔭 Building a food based Social Media app in SwiftUI 
+
+🔭 Creating a personal Website on Github Pages
+
+🔭 Working on Polishing my Data Structures & Algorithms 
+
+## I’m currently learning ...
+ 🌱 SwiftUI
+ 
+ 🌱 Introducing API into programs
+ 
+ 🌱 AWS Amplify
+ 
+ ## Outside of coding I love...
+
+♟️ Learning and studying the game of chess
+
+⚾ Watching the New York Yankees
+
+🏀 Playing basketball with my friends
